@@ -9,7 +9,10 @@
 
 .home-main-pic {
   margin: 20px;
-  min-width: 400px;
+  min-width: 350px;
+}
+.text-section {
+  margin: 20px;
 }
 
 .main-row {
